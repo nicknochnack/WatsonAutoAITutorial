@@ -43,5 +43,5 @@ Then come back into your project and Select Create.
 ![enter image description here](https://i.imgur.com/RHxqFAT.png)
 
 ## 4. Follow Along with the YouTube Walkthrough
-Walkthrough the steps to create a churn model.
+Walkthrough the steps to create a churn model. <br />
 [![Predicting Churn](https://img.youtube.com/vi/TsK289LVlrY/0.jpg)](https://www.youtube.com/watch?v=TsK289LVlrY)
